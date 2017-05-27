@@ -34,8 +34,8 @@ $ composer require SiyahKare/Iati
 ## Usage
 
 ``` php
-$skeleton = new SiyahKare\Iati();
-echo $skeleton->echoPhrase('Hello, League!');
+$Iati = new SiyahKare\Iati();
+echo $Iati->echoPhrase('Hello, World!');
 ```
 
 ## Change log
